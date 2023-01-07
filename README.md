@@ -8,6 +8,8 @@ gamma synthesis library
 
 # GPU
 * experiment with running on the NVidia
+* mostly compile with the openmp simd and gpu openacc
+* the fft need to be replaced with cufft or vkfft
 
 # Raspberry/Banana Pi
 * make it work on the raspberry easy
