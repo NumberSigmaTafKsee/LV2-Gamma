@@ -10,6 +10,10 @@ gamma synthesis library
 * experiment with running on the NVidia
 * mostly compile with the openmp simd and gpu openacc
 * the fft need to be replaced with cufft or vkfft
+* it is not possible to vectorize filters and algorithms with delays that I know how
+* you can vectorize fft fir filter 
+* any algorithm with delay or that is recursive argument of itself only run in streams
+* you can run many streams at a time each in their own channel/voice
 
 # Raspberry/Banana Pi
 * make it work on the raspberry easy
