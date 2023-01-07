@@ -11,4 +11,4 @@ gamma synthesis library
 
 # Raspberry/Banana Pi
 * make it work on the raspberry easy
-
+* I use ubuntu/debian pi os
