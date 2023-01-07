@@ -6,4 +6,9 @@ gamma synthesis library
 * I think the license is BSD
 * It is the same license as Gamma
 
+# GPU
+* experiment with running on the NVidia
+
+# Raspberry/Banana Pi
+* make it work on the raspberry easy
 
