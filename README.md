@@ -1,3 +1,3 @@
 # LV2-Gamma
-gamma synthesis library
+General Purpose AudioDSP Algorithms 
 
