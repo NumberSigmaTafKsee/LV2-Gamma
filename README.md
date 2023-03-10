@@ -18,3 +18,7 @@ gamma synthesis library
 # it does not need it
 * it does need aligned memory though and it is not hard to modify them to do it
 * I can replace FFT with FFTW3 very easily too
+
+# Everything else then works simply with anybody else
+* By gett the pointer you can use it with IPP,Kfr or anything
+* If it is aligned then it can be used by any function that require aligned memory
