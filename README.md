@@ -22,3 +22,4 @@ gamma synthesis library
 # Everything else then works simply with anybody else
 * By gett the pointer you can use it with IPP,Kfr or anything
 * If it is aligned then it can be used by any function that require aligned memory
+* You can use Eigen map as long it will make sense in the memory order
