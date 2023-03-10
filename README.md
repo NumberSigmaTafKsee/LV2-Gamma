@@ -14,3 +14,7 @@ gamma synthesis library
 * It would be good to compute frames at a time and it can be optimized by compiler or openmp simd
 * I would prefer it use FFTW3 because it is simply what I have all the code for and it already is portable to Cuda like that
 * I would prefer it just use std c++ library complex and arrays 
+
+# it does not need it
+* it does need aligned memory though and it is not hard to modify them to do it
+* I can replace FFT with FFTW3 very easily too
